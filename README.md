@@ -22,7 +22,29 @@ yarn global add @vue/cli
 npm install -g @vue/cli
 ```
 
+Command dans le projet :
 
+```html
+yarn serve
+
+resulta :
+DONE  Compiled successfully in 4099ms                                                                                                                                                                                                                        11:38:26
+
+  App running at:
+  - Local:   http://localhost:8080/
+  - Network: http://192.168.10.112:8080/
+```
+
+Ouvrez le [localhost](http://localhost) pour voir votre application en temps réel
+
+Pour avoir acces a l'interface graphique de vue.js
+
+```html
+vue ui
+
+resulta :
+🚀  Starting GUI...
+🌠  Ready on http://localhost:8000
 
 
 
